@@ -34,7 +34,7 @@
 ![Tampilan UI](asset/ss.png)
 
 ---
-
+  
 ## 🧱 Catatan Pengembangan
 
 Tugas ini merupakan implementasi GUI menggunakan PyQt5 dengan fitur interaktif untuk mengubah tampilan teks dan latar belakang. Aplikasi ini dibuat dengan komponen berikut:
